@@ -3,7 +3,14 @@
     <title>My New Hugo Site</title>
     <link>http://guo-weiqiang.github.io/</link>
     <description>This is My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator><language>en</language>
+    <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 24 Aug 2022 16:32:45 &#43;0200</lastBuildDate>
       <atom:link href="http://guo-weiqiang.github.io/index.xml" rel="self" type="application/rss+xml" />
-    </channel>
+    <item>
+  <title>First_post</title>
+  <link>http://guo-weiqiang.github.io/first_post/</link>
+  <pubDate>Wed, 24 Aug 2022 16:32:45 &#43;0200</pubDate>
+  <author>Author</author>
+  <guid>http://guo-weiqiang.github.io/first_post/</guid>
+  <description><![CDATA[]]></description>
+</item></channel>
 </rss>

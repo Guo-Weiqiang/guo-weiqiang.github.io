@@ -2,6 +2,10 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>http://guo-weiqiang.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-      <loc>http://guo-weiqiang.github.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-      <loc>http://guo-weiqiang.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+      <loc>http://guo-weiqiang.github.io/categories/</loc><lastmod>2022-08-24T16:32:45&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://guo-weiqiang.github.io/tags/draft/</loc><lastmod>2022-08-24T16:32:45&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://guo-weiqiang.github.io/categories/draft/</loc><lastmod>2022-08-24T16:32:45&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://guo-weiqiang.github.io/first_post/</loc><lastmod>2022-08-24T16:32:45&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://guo-weiqiang.github.io/</loc><lastmod>2022-08-24T16:32:45&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://guo-weiqiang.github.io/posts/</loc><lastmod>2022-08-24T16:32:45&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://guo-weiqiang.github.io/tags/</loc><lastmod>2022-08-24T16:32:45&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
