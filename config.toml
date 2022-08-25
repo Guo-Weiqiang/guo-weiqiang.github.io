@@ -14,7 +14,7 @@ publishDir = "docs"
   #  FixIt theme version
   version = "0.2.X" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
   # site description
-  description = "This is My New Hugo Site"
+  description = "This is Weiqiang Guo's Blog."
   # site keywords
   keywords = ["Theme", "Hugo"]
   # site default theme ("light", "dark", "auto")
@@ -180,7 +180,7 @@ publishDir = "docs"
 
   # Social config about the author
   [params.social]
-    GitHub = "Lruihao"
+    GitHub = "Guo-Weiqiang"
     Linkedin = ""
     Twitter = ""
     Instagram = ""
@@ -252,7 +252,7 @@ publishDir = "docs"
     QQGroup = "" # https://qun.qq.com/join.html
     Diaspora = ""
     CSDN = ""
-    Email = ""
+    Email = "weiqiangguo0209@gmail.com"
     RSS = true # 
 
   #  Page config

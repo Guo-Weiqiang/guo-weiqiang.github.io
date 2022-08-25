@@ -3,7 +3,7 @@ title: "KMP算法"
 subtitle: ""
 date: 2022-08-25T16:06:00+02:00
 draft: false
-author: ""
+author: "spike"
 authorLink: ""
 authorEmail: ""
 description: ""
@@ -42,11 +42,13 @@ repost:
 # See details front matter: https://fixit.lruihao.cn/theme-documentation-content/#front-matter
 ---
 
-<!--more-->
+
 
 ### KMP算法
 
 我们知道，串类型有一个功能是查找子串，而查找的方法有多种，如暴力查找法、KMP算法，这次我们来介绍一下这些方法
+
+<!--more-->
 
 首先说明一下一些符号及名词的含义：
 
