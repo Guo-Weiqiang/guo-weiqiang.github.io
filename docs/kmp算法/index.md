@@ -1,46 +1,5 @@
----
-title: "KMP算法"
-subtitle: ""
-date: 2022-08-25T16:06:00+02:00
-draft: false
-author: ""
-authorLink: ""
-authorEmail: ""
-description: ""
-keywords: ""
-license: ""
-comment: true
-weight: 0
+# KMP算法
 
-tags:
-- algorithms
-categories:
-- data structure and algorithms
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-summary: ""
-resources:
-- name: featured-image
-  src: featured-image.jpg
-- name: featured-image-preview
-  src: featured-image-preview.jpg
-
-toc:
-  enable: true
-math:
-  enable: false
-lightgallery: false
-seo:
-  images: []
-
-repost:
-  enable: true
-  url: ""
-
-# See details front matter: https://fixit.lruihao.cn/theme-documentation-content/#front-matter
----
 
 <!--more-->
 
@@ -342,4 +301,11 @@ public int[] Get_Next1(IString s)
 
 
 
+
+
+
+---
+
+> Author:   
+> URL: http://guo-weiqiang.github.io/kmp%E7%AE%97%E6%B3%95/  
 

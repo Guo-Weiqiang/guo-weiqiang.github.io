@@ -3,12 +3,12 @@
     <title>All Posts - My New Hugo Site</title>
     <link>http://guo-weiqiang.github.io/posts/</link>
     <description>All Posts | My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 24 Aug 2022 16:32:45 &#43;0200</lastBuildDate><atom:link href="http://guo-weiqiang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-  <title>First_post</title>
-  <link>http://guo-weiqiang.github.io/first_post/</link>
-  <pubDate>Wed, 24 Aug 2022 16:32:45 &#43;0200</pubDate>
+    <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 25 Aug 2022 16:06:00 &#43;0200</lastBuildDate><atom:link href="http://guo-weiqiang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+  <title>KMP算法</title>
+  <link>http://guo-weiqiang.github.io/kmp%E7%AE%97%E6%B3%95/</link>
+  <pubDate>Thu, 25 Aug 2022 16:06:00 &#43;0200</pubDate>
   <author>Author</author>
-  <guid>http://guo-weiqiang.github.io/first_post/</guid>
+  <guid>http://guo-weiqiang.github.io/kmp%E7%AE%97%E6%B3%95/</guid>
   <description><![CDATA[]]></description>
 </item></channel>
 </rss>
