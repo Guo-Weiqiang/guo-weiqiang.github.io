@@ -7,8 +7,9 @@
   <title>KMP算法</title>
   <link>http://guo-weiqiang.github.io/kmp%E7%AE%97%E6%B3%95/</link>
   <pubDate>Thu, 25 Aug 2022 16:06:00 &#43;0200</pubDate>
-  <author>Author</author>
+  <author>spike</author>
   <guid>http://guo-weiqiang.github.io/kmp%E7%AE%97%E6%B3%95/</guid>
-  <description><![CDATA[]]></description>
+  <description><![CDATA[<h3 id="kmp算法">KMP算法</h3>
+<p>我们知道，串类型有一个功能是查找子串，而查找的方法有多种，如暴力查找法、KMP算法，这次我们来介绍一下这些方法</p>]]></description>
 </item></channel>
 </rss>

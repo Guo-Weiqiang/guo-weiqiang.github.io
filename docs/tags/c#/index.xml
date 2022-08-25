@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>data structure and algorithms - Category - My New Hugo Site</title>
-    <link>http://guo-weiqiang.github.io/categories/data-structure-and-algorithms/</link>
-    <description>data structure and algorithms - Category - My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 25 Aug 2022 17:26:53 &#43;0200</lastBuildDate><atom:link href="http://guo-weiqiang.github.io/categories/data-structure-and-algorithms/" rel="self" type="application/rss+xml" /><item>
+    <title>c# - Tag - My New Hugo Site</title>
+    <link>http://guo-weiqiang.github.io/tags/c#/</link>
+    <description>c# - Tag - My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 25 Aug 2022 17:26:53 &#43;0200</lastBuildDate><atom:link href="http://guo-weiqiang.github.io/tags/c#/" rel="self" type="application/rss+xml" /><item>
   <title>Huffman编码</title>
   <link>http://guo-weiqiang.github.io/huffman%E7%BC%96%E7%A0%81/</link>
   <pubDate>Thu, 25 Aug 2022 17:26:53 &#43;0200</pubDate>
@@ -65,13 +65,5 @@
   
 >大卫·霍夫曼</a>（David Albert Huffman）在1952年发明，是一种变长的编码方式，对出现频率高的字符采用较短的编码，而对出现频率较低的字符采用较长的编码（在对字符进行变长编码时，注意要满足<strong>前缀码规则：任意字符的编码不能是其他字符编码的前缀</strong>）</p>
 </blockquote>]]></description>
-</item><item>
-  <title>KMP算法</title>
-  <link>http://guo-weiqiang.github.io/kmp%E7%AE%97%E6%B3%95/</link>
-  <pubDate>Thu, 25 Aug 2022 16:06:00 &#43;0200</pubDate>
-  <author>spike</author>
-  <guid>http://guo-weiqiang.github.io/kmp%E7%AE%97%E6%B3%95/</guid>
-  <description><![CDATA[<h3 id="kmp算法">KMP算法</h3>
-<p>我们知道，串类型有一个功能是查找子串，而查找的方法有多种，如暴力查找法、KMP算法，这次我们来介绍一下这些方法</p>]]></description>
 </item></channel>
 </rss>

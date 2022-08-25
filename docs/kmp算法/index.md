@@ -1,11 +1,13 @@
 # KMP算法
 
 
-<!--more-->
+
 
 ### KMP算法
 
 我们知道，串类型有一个功能是查找子串，而查找的方法有多种，如暴力查找法、KMP算法，这次我们来介绍一下这些方法
+
+<!--more-->
 
 首先说明一下一些符号及名词的含义：
 
@@ -306,6 +308,6 @@ public int[] Get_Next1(IString s)
 
 ---
 
-> Author:   
+> Author: spike  
 > URL: http://guo-weiqiang.github.io/kmp%E7%AE%97%E6%B3%95/  
 
