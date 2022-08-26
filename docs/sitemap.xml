@@ -2,13 +2,12 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>http://guo-weiqiang.github.io/tags/algorithm/</loc><lastmod>2022-08-25T17:26:53&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://guo-weiqiang.github.io/tags/algorithms/</loc><lastmod>2022-08-25T17:26:53&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>http://guo-weiqiang.github.io/tags/c#/</loc><lastmod>2022-08-25T17:26:53&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>http://guo-weiqiang.github.io/categories/</loc><lastmod>2022-08-25T17:26:53&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>http://guo-weiqiang.github.io/categories/data-structure-and-algorithms/</loc><lastmod>2022-08-25T17:26:53&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>http://guo-weiqiang.github.io/huffman%E7%BC%96%E7%A0%81/</loc><lastmod>2022-08-25T17:26:53&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>http://guo-weiqiang.github.io/</loc><lastmod>2022-08-25T17:26:53&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>http://guo-weiqiang.github.io/posts/</loc><lastmod>2022-08-25T17:26:53&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>http://guo-weiqiang.github.io/tags/</loc><lastmod>2022-08-25T17:26:53&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>http://guo-weiqiang.github.io/tags/algorithms/</loc><lastmod>2022-08-25T16:06:00&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://guo-weiqiang.github.io/</loc><lastmod>2022-08-25T17:26:53&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>http://guo-weiqiang.github.io/kmp%E7%AE%97%E6%B3%95/</loc><lastmod>2022-08-25T16:06:00&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>

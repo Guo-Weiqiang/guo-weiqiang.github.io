@@ -1,6 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Weiqiang Guo&#39;s Blog</title>
     <link>http://guo-weiqiang.github.io/</link>
     <description>This is Weiqiang Guo&#39;s Blog.</description>
     <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 25 Aug 2022 17:26:53 &#43;0200</lastBuildDate>

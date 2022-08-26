@@ -13,7 +13,7 @@ comment: false
 weight: 0
 
 tags:
-- algorithm
+- algorithms
 - c#
 categories:
 - data structure and algorithms
